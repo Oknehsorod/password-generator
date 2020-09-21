@@ -58,7 +58,7 @@ function App() {
 
     for (let i = 0; i < state.length; i += 1) {
       const type = getRandElement(variants);
-      password += getRandElement(type.split(""))
+      password += getRandElement(type.split(''));
     }
 
     setPass(password);
@@ -68,7 +68,7 @@ function App() {
     <div className="App">
       <Header />
       <Grid container justify="center">
-        <TextField disabled value={pass} />
+        <TextField value={pass} />
         <Grid container justify="center">
           <Grid container justify="center">
             <FormControlLabel
