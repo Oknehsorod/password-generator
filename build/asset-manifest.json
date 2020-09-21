@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.b1c9de1a.chunk.js",
-    "main.js.map": "/static/js/main.b1c9de1a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4bbf50f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4bbf50f9.js.map",
-    "static/js/2.fd14e33e.chunk.js": "/static/js/2.fd14e33e.chunk.js",
-    "static/js/2.fd14e33e.chunk.js.map": "/static/js/2.fd14e33e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d6d988e21791e9fee92b2ee5865f9903.js": "/precache-manifest.d6d988e21791e9fee92b2ee5865f9903.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.fd14e33e.chunk.js.LICENSE.txt": "/static/js/2.fd14e33e.chunk.js.LICENSE.txt"
+    "main.js": "/password-generator/static/js/main.b1c9de1a.chunk.js",
+    "main.js.map": "/password-generator/static/js/main.b1c9de1a.chunk.js.map",
+    "runtime-main.js": "/password-generator/static/js/runtime-main.6df49453.js",
+    "runtime-main.js.map": "/password-generator/static/js/runtime-main.6df49453.js.map",
+    "static/js/2.fd14e33e.chunk.js": "/password-generator/static/js/2.fd14e33e.chunk.js",
+    "static/js/2.fd14e33e.chunk.js.map": "/password-generator/static/js/2.fd14e33e.chunk.js.map",
+    "index.html": "/password-generator/index.html",
+    "precache-manifest.0cc22396fb759baffa8b1683347d4605.js": "/password-generator/precache-manifest.0cc22396fb759baffa8b1683347d4605.js",
+    "service-worker.js": "/password-generator/service-worker.js",
+    "static/js/2.fd14e33e.chunk.js.LICENSE.txt": "/password-generator/static/js/2.fd14e33e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bbf50f9.js",
+    "static/js/runtime-main.6df49453.js",
     "static/js/2.fd14e33e.chunk.js",
     "static/js/main.b1c9de1a.chunk.js"
   ]
